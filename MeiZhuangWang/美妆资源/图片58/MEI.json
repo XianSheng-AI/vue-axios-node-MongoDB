@@ -1,0 +1,471 @@
+{
+  "status": "suc",
+  "msg": "caixianjia",
+  "productSId": "007",
+  "prod": [
+    {
+      "productName": "A.H.CAHC",
+      "productOldPrice": "169",
+      "productPrice": "149",
+      "productId": "1001",
+      "productTip": "黄金蜗牛玻尿酸改善皱纹保湿补水美白紧致爽肤水140ml",
+      "productImg": "1.jpg"
+    },
+    {
+      "productName": "DHC",
+      "productOldPrice": "90",
+      "productPrice": "78",
+      "productId": "1002",
+      "productTip": "润唇 橄榄护唇膏1.5g",
+      "productImg": "2.jpg"
+    },
+    {
+      "productName": "BOB",
+      "productOldPrice": "40",
+      "productPrice": "30",
+      "productId": "1003",
+      "productTip": "雪纺亮妍腮红",
+      "productImg": "3.jpg"
+    },
+    {
+      "productName": "IT°S SKIN伊思",
+      "productOldPrice": "99",
+      "productPrice": "89",
+      "productId": "1004",
+      "productTip": "蜗牛洁净清爽洗面奶 150ml",
+      "productImg": "4.jpg"
+    },
+    {
+      "productName": "Mistine",
+      "productOldPrice": "99",
+      "productPrice": "69",
+      "productId": "1005",
+      "productTip": "持久遮瑕水润清透防晒24小时不易脱妆粉底液",
+      "productImg": "5.jpg"
+    },
+    {
+      "productName": "VT",
+      "productOldPrice": "130",
+      "productPrice": "109",
+      "productId": "1006",
+      "productTip": "眼线笔&睫毛膏双头笔02 棕色",
+      "productImg": "6.jpg"
+    },
+    {
+      "productName": "阿玛尼",
+      "productOldPrice": "559",
+      "productPrice": "509",
+      "productId": "1007",
+      "productTip": "光影师漾肌底妆乳30ml",
+      "productImg": "7.jpg"
+    },
+    {
+      "productName": "PF79",
+      "productOldPrice": "129",
+      "productPrice": "99",
+      "productId": "1008",
+      "productTip": "水凝气垫BB霜 21号 自然色13g",
+      "productImg": "8.jpg"
+    },
+    {
+      "productName": "贝德玛BIODERMA",
+      "productOldPrice": "228",
+      "productPrice": "138",
+      "productId": "1009",
+      "productTip": "舒妍多效温和卸妆洁肤液 清洁卸妆水 500ml",
+      "productImg": "9.jpg"
+    },
+    {
+      "productName": "Mistine蜜丝婷",
+      "productOldPrice": "100",
+      "productPrice": "75",
+      "productId": "1010",
+      "productTip": "轻薄透气持久定妆遮瑕防水控油防晒羽翼粉饼",
+      "productImg": "10.jpg"
+    },
+    {
+      "productName": "ESPOIRespoir艾丝珀",
+      "productOldPrice": "200",
+      "productPrice": "176",
+      "productId": "1011",
+      "productTip": "珍珠胶囊水分凝胶精华妆前乳 40ml",
+      "productImg": "11.jpg"
+    },
+    {
+      "productName": "悦诗风吟",
+      "productOldPrice": "45",
+      "productPrice": "30",
+      "productId": "1012",
+      "productTip": "乐活自然美妆工具眉刷",
+      "productImg": "12.jpg"
+    },
+    {
+      "productName": "小甘菊 Herbacin",
+      "productOldPrice": "168",
+      "productPrice": "128",
+      "productId": "1013",
+      "productTip": "修护唇膏 4.8g 润唇",
+      "productImg": "13.jpg"
+    },
+    {
+      "productName": "辛普森",
+      "productOldPrice": "352",
+      "productPrice": "308",
+      "productId": "1014",
+      "productTip": "限量版控油补水气垫V201套装 BB霜",
+      "productImg": "14.jpg"
+    },
+    {
+      "productName": "轩谛新",
+      "productOldPrice": "88",
+      "productPrice": "78",
+      "productId": "1015",
+      "productTip": "自然匀润男士BB霜-自然色50ml",
+      "productImg": "15.jpg"
+    },
+    {
+      "productName": "伊思",
+      "productOldPrice": "129",
+      "productPrice": "99",
+      "productId": "1016",
+      "productTip": "晶钻红参蜗牛面膜",
+      "productImg": "16.jpg"
+    },
+    {
+      "productName": "雅芳",
+      "productOldPrice": "68",
+      "productPrice": "46",
+      "productId": "1017",
+      "productTip": "卸妆油200ml 卸妆",
+      "productImg": "17.jpg"
+    },
+    {
+      "productName": "雅漾Avene",
+      "productOldPrice": "139",
+      "productPrice": "109",
+      "productId": "1018",
+      "productTip": "雅漾舒润净颜卸妆水400ml",
+      "productImg": "18.jpg"
+    },
+    {
+      "productName": "悦诗风吟",
+      "productOldPrice": "242",
+      "productPrice": "196",
+      "productId": "1019",
+      "productTip": "矿物质纯安保湿隔离乳 30ml",
+      "productImg": "19.jpg"
+    },
+    {
+      "productName": "涂酷",
+      "productOldPrice": "65",
+      "productPrice": "55",
+      "productId": "1020",
+      "productTip": "涂酷牛奶染唇膏 9.5g 口红",
+      "productImg": "20.jpg"
+    },
+    {
+      "productName": "色彩地带",
+      "productOldPrice": "65",
+      "productPrice": "52",
+      "productId": "1021",
+      "productTip": "干湿两用粉饼经典款04#（偏白皙）",
+      "productImg": "21.jpg"
+    },
+    {
+      "productName": "瓷妆",
+      "productOldPrice": "142",
+      "productPrice": "129",
+      "productId": "1022",
+      "productTip": "轻密双效卷翘持久防水自然纤长睫毛膏",
+      "productImg": "22.jpg"
+    },
+    {
+      "productName": "卡姿兰",
+      "productOldPrice": "145",
+      "productPrice": "129",
+      "productId": "1023",
+      "productTip": "金致胶原美芯唇膏3.5g 09#里约玫红",
+      "productImg": "23.jpg"
+    },
+    {
+      "productName": "韩雅韩雅",
+      "productOldPrice": "260",
+      "productPrice": "230",
+      "productId": "1024",
+      "productTip": "蜗牛修复美肌乳 120ml",
+      "productImg": "24.jpg"
+    },
+    {
+      "productName": "菲诗小铺",
+      "productOldPrice": "88",
+      "productPrice": "69",
+      "productId": "1025",
+      "productTip": "水漾迷雾唇膏笔 1.4g",
+      "productImg": "25.jpg"
+    },
+    {
+      "productName": "卡姿兰",
+      "productOldPrice": "223",
+      "productPrice": "199",
+      "productId": "1026",
+      "productTip": "彩蛋气垫两用底妆盒（红色幸运款）01陶瓷色",
+      "productImg": "26.jpg"
+    },
+    {
+      "productName": "美诺",
+      "productOldPrice": "102",
+      "productPrice": "99",
+      "productId": "1027",
+      "productTip": "柔雾持色唇膏 热卖色",
+      "productImg": "27.jpg"
+    },
+    {
+      "productName": "御泥坊",
+      "productOldPrice": "136",
+      "productPrice": "99",
+      "productId": "1028",
+      "productTip": "蜗牛原液活力修护矿物面膜5片",
+      "productImg": "28.jpg"
+    },
+    {
+      "productName": "妙巴黎妙",
+      "productOldPrice": "156",
+      "productPrice": "144",
+      "productId": "1029",
+      "productTip": "巴黎果然美肌净透粉饼",
+      "productImg": "29.jpg"
+    },
+    {
+      "productName": "BBIA",
+      "productOldPrice": "99",
+      "productPrice": "88",
+      "productId": "1030",
+      "productTip": "丝绒哑光雾面口红正红色",
+      "productImg": "30.jpg"
+    },
+    {
+      "productName": "Blistex",
+      "productOldPrice": "30",
+      "productPrice": "25",
+      "productId": "1031",
+      "productTip": "碧唇小蓝罐滋润修复润唇膏",
+      "productImg": "31.jpg"
+    },
+    {
+      "productName": "BOB",
+      "productOldPrice": "59",
+      "productPrice": "49",
+      "productId": "1032",
+      "productTip": "彩妆防水不晕染3D立体睫毛膏",
+      "productImg": "32.jpg"
+    },
+    {
+      "productName": "BOB时尚教主",
+      "productOldPrice": "42",
+      "productPrice": "35",
+      "productId": "1033",
+      "productTip": "时尚教主晶采绚亮四色眼影",
+      "productImg": "33.jpg"
+    },
+    {
+      "productName": "City Color CITYCOLOR",
+      "productOldPrice": "88",
+      "productPrice": "66",
+      "productId": "1034",
+      "productTip": "丝绒幻彩唇釉玫瑰红",
+      "productImg": "34.jpg"
+    },
+    {
+      "productName": "IT S SKINIT S SKIN",
+      "productOldPrice": "499",
+      "productPrice": "469",
+      "productId": "1035",
+      "productTip": "晶钻蜗牛水乳霜护肤品套盒清爽型",
+      "productImg": "35.jpg"
+    },
+    {
+      "productName": "IT S SKINIT S SKIN",
+      "productOldPrice": "109",
+      "productPrice": "89",
+      "productId": "1036",
+      "productTip": "红参蜗牛洁净润肤洗面奶",
+      "productImg": "36.jpg"
+    },
+    {
+      "productName": "Larastyle Lara Style",
+      "productOldPrice": "198",
+      "productPrice": "179",
+      "productId": "1037",
+      "productTip": "韩式印章眉粉6g(咖啡色一字眉)",
+      "productImg": "37.jpg"
+    },
+    {
+      "productName": "Marionnaud PARIS",
+      "productOldPrice": "158",
+      "productPrice": "120",
+      "productId": "1038",
+      "productTip": "Marionnaund 精选彩妆盘",
+      "productImg": "38.jpg"
+    },
+    {
+      "productName": "MILANI",
+      "productOldPrice": "255",
+      "productPrice": "209",
+      "productId": "1039",
+      "productTip": "眼科技完美液体眼线笔黑色",
+      "productImg": "39.jpg"
+    },
+    {
+      "productName": "MILANI",
+      "productOldPrice": "79",
+      "productPrice": "68",
+      "productId": "1040",
+      "productTip": "矿物烘培腮红珊瑚橙(微光)自然立体裸妆",
+      "productImg": "40.jpg"
+    },
+    {
+      "productName": "mini poni",
+      "productOldPrice": "24",
+      "productPrice": "18",
+      "productId": "1041",
+      "productTip": "花果缤纷温控变色唇膏持久保湿补水",
+      "productImg": "41.jpg"
+    },
+    {
+      "productName": "RE CIPERE CIPE",
+      "productOldPrice": "72",
+      "productPrice": "58",
+      "productId": "1042",
+      "productTip": "水晶防晒喷雾SPF50防水防汗隔离防晒",
+      "productImg": "42.jpg"
+    },
+    {
+      "productName": "SKIN79SKIN79",
+      "productOldPrice": "99",
+      "productPrice": "78",
+      "productId": "1043",
+      "productTip": "红桶BB霜&素颜霜-油性皮肤",
+      "productImg": "43.jpg"
+    },
+    {
+      "productName": "T°S SKINIT°S SKIN",
+      "productOldPrice": "189",
+      "productPrice": "168",
+      "productId": "1044",
+      "productTip": "蜗牛精华眼霜护肤品礼盒套装亲肤柔滑",
+      "productImg": "44.jpg"
+    },
+    {
+      "productName": "The History of Whoo The History of Whoo",
+      "productOldPrice": "79",
+      "productPrice": "68",
+      "productId": "1045",
+      "productTip": "拱辰享美粉黛眉笔(灰色)2g",
+      "productImg": "45.jpg"
+    },
+    {
+      "productName": "安婕妤ANGLEE",
+      "productOldPrice": "49",
+      "productPrice": "39",
+      "productId": "1046",
+      "productTip": "胶原水润保湿面膜8片/盒 补水保湿润泽锁水",
+      "productImg": "46.jpg"
+    },
+    {
+      "productName": "芭比波朗",
+      "productOldPrice": "49",
+      "productPrice": "35",
+      "productId": "1047",
+      "productTip": "流云眼线膏1号(墨黑)防水持久眼线笔",
+      "productImg": "47.jpg"
+    },
+    {
+      "productName": "芭比波朗",
+      "productOldPrice": "480",
+      "productPrice": "468",
+      "productId": "1048",
+      "productTip": "舒盈无瑕粉妆盒-暖嫩芽",
+      "productImg": "48.jpg"
+    },
+    {
+      "productName": "芭妮兰",
+      "productOldPrice": "141",
+      "productPrice": "125",
+      "productId": "1049",
+      "productTip": "Banila co致柔卸妆膏/清洁卸妆水",
+      "productImg": "49.jpg"
+    },
+    {
+      "productName": "玻儿",
+      "productOldPrice": "59",
+      "productPrice": "48",
+      "productId": "1050",
+      "productTip": "玻玻兔小胖笔唇膏姨妈红",
+      "productImg": "50.jpg"
+    },
+    {
+      "productName": "瓷妆",
+      "productOldPrice": "68",
+      "productPrice": "55",
+      "productId": "1051",
+      "productTip": "塑形持久防水防汗不晕染双头自动眉笔浅棕色",
+      "productImg": "51.jpg"
+    },
+    {
+      "productName": "魅惑",
+      "productOldPrice": "39",
+      "productPrice": "29",
+      "productId": "1052",
+      "productTip": "魅惑耀眼眼线膏防汗不晕染持久不脱色",
+      "productImg": "52.jpg"
+    },
+    {
+      "productName": "韩后",
+      "productOldPrice": "119",
+      "productPrice": "99",
+      "productId": "1053",
+      "productTip": "水光裸妆素颜霜 提亮肤色/妆前乳",
+      "productImg": "53.jpg"
+    },
+    {
+      "productName": "赫拉",
+      "productOldPrice": "158",
+      "productPrice": "138",
+      "productId": "1054",
+      "productTip": "牛奶多效保湿气垫粉凝霜 气垫bb(亮肤色)",
+      "productImg": "54.jpg"
+    },
+    {
+      "productName": "火烈鸟",
+      "productOldPrice": "55",
+      "productPrice": "49",
+      "productId": "1055",
+      "productTip": "flamingo流畅黑亮液体眼线笔防水",
+      "productImg": "55.jpg"
+    },
+    {
+      "productName": "卡姿兰",
+      "productOldPrice": "199",
+      "productPrice": "179",
+      "productId": "1056",
+      "productTip": "Carslan蜗牛气垫调控霜升级3D波纹版(丝白色)气垫cc亮肤色",
+      "productImg": "56.jpg"
+    },
+    {
+      "productName": "魅力派 wet n wild",
+      "productOldPrice": "69",
+      "productPrice": "56",
+      "productId": "1057",
+      "productTip": " wet n wild无暇好漾系列修颜遮瑕色盘",
+      "productImg": "57.jpg"
+    },
+    {
+      "productName": "佩佩 ",
+      "productOldPrice": "218",
+      "productPrice": "189",
+      "productId": "1058",
+      "productTip": "唇言蜜语口红套装7支多色小口红唇膏滋润色泽饱满不脱色",
+      "productImg": "58.jpg"
+    }
+  ]
+}

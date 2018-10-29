@@ -1,0 +1,44 @@
+{
+  "userId": "007",
+  "userName": "joke",
+  "userPwd": "123456",
+  "orderList": [
+    {
+      "oderId": "3546846132354351",
+      "orderTotal": "1600",
+      "orderStatus": 1,
+      "createDate": "2018-08-13 20:10:52",
+      "goodsList": []
+    }
+  ],
+  "cartList":[],
+  "address": [{
+    "addressId": "100001",
+    "userName": "jole",
+    "streeName": "北京朝阳区",
+    "postCode": "10001",
+    "tel": "12345678951",
+    "isDefault": false
+  },{
+    "addressId": "100001",
+    "userName": "jole",
+    "streeName": "青海西宁",
+    "postCode": "10002",
+    "tel": "12345678951",
+    "isDefault": false
+  },{
+    "addressId": "100001",
+    "userName": "jole",
+    "streeName": "海南万宁",
+    "postCode": "10003",
+    "tel": "12345678951",
+    "isDefault": false
+  },{
+    "addressId": "100001",
+    "userName": "jole",
+    "streeName": "湖南长沙",
+    "postCode": "10004",
+    "tel": "12345678951",
+    "isDefault": false
+  }]
+}

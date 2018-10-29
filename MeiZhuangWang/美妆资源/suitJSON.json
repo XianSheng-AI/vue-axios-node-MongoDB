@@ -1,0 +1,31 @@
+{
+  "status": "suc009",
+  "msg": "caixianjia009",
+  "productSId": "009",
+  "suitprod": [
+    {
+      "productName": "防晒/隔离套装",
+      "productOldPrice": "152",
+      "productPrice": "129",
+      "productId": "1062",
+      "productTip": "新能真皙美白隔离霜35g+【赠品：净颜深层卸妆油30ml+芯肌密钥洁面膏30g】",
+      "productImg": "62.jpg"
+    },
+    {
+      "productName": "多重防晒隔离霜(淡紫色)套装",
+      "productOldPrice": "229",
+      "productPrice": "219",
+      "productId": "1063",
+      "productTip": "雪润皙白多重防晒隔离霜（淡紫色）SPF30+ PA+++ 30ml(新老包装随机发货）+喷雾50mlOR冰肌水小样（随机切换发货）",
+      "productImg": "63.jpg"
+    },
+    {
+      "productName": "提亮肤色套装",
+      "productOldPrice": "189",
+      "productPrice": "168",
+      "productId": "1064",
+      "productTip": "清晰亮肤妆前乳套组【赠品：清晰亮肤 妆前乳5ML*3+ 多功能化妆海绵 非卖品】",
+      "productImg": "64.jpg"
+    }
+  ]
+}

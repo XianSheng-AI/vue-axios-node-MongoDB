@@ -1,0 +1,17 @@
+{
+  "status":"10086",
+  "mes":"suc",
+  "type":"admin",
+  "admin":[
+    {
+      "leName":"CAIXIANJIA007",
+      "lePwd":"8208208820",
+      "level":"SSS"
+    },
+    {
+      "leName":"LABIXIAOXIN008",
+      "lePwd":"5205205520",
+      "level":"SS"
+    }
+  ]
+}

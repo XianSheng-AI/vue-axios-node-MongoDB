@@ -1,0 +1,71 @@
+﻿{
+  "status": "aellsuc",
+  "msg": "caixianjia008",
+  "productSId": "008",
+  "sellprod": [
+    {
+      "productName": "卡姿兰Carslan",
+      "productOldPrice": "129",
+      "productPrice": "99",
+      "productId": "1081",
+      "productTip": "金致胶原美芯唇膏Ⅱ星耀天使粉限量版 #浓情红丝绒",
+      "productImg": "81.jpg"
+    },
+    {
+      "productName": "玛丽黛佳",
+      "productOldPrice": "299",
+      "productPrice": "198",
+      "productId": "1082",
+      "productTip": "无感大师水域亮肤气垫CC霜(1+1) 木兰迟/亮肤色",
+      "productImg": "82.jpg"
+    },
+    {
+      "productName": "安娜苏",
+      "productOldPrice": "270",
+      "productPrice": "199",
+      "productId": "1083",
+      "productTip": "安娜苏星彩唇膏 3g ",
+      "productImg": "83.jpg"
+    },
+    {
+      "productName": "滋源",
+      "productOldPrice": "267",
+      "productPrice": "199",
+      "productId": "1084",
+      "productTip": "滋养润发无硅洗护套装(洗发水1070ml+发膜200ml+60ml旅行装*2)",
+      "productImg": "84.jpg"
+    },
+    {
+      "productName": "Mistine  蜜丝婷",
+      "productOldPrice": "108",
+      "productPrice": "69",
+      "productId": "1085",
+      "productTip": "保湿滋润多色热辣狂野八色口红拼盘唇膏10g",
+      "productImg": "85.jpg"
+    },
+    {
+      "productName": "妮维雅NIVEA",
+      "productOldPrice": "296",
+      "productPrice": "149",
+      "productId": "1086",
+      "productTip": "男士水润净爽护肤套装洗面奶精华洗发露",
+      "productImg": "86.jpg"
+    },
+    {
+      "productName": "韩束",
+      "productOldPrice": "629",
+      "productPrice": "369",
+      "productId": "1087",
+      "productTip": "墨菊奢润星动礼盒【升级版】护肤套装 洁面水乳补水修护 ",
+      "productImg": "87.jpg"
+    },
+    {
+      "productName": "兰瑟LANSUR",
+      "productOldPrice": "229",
+      "productPrice": "169",
+      "productId": "1088",
+      "productTip": "水光幻亮气垫CC霜02自然色15ml+15ml持久滋润补水保湿裸妆遮瑕提亮肤色 ",
+      "productImg": "88.jpg"
+    }
+  ]
+}
